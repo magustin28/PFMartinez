@@ -1,0 +1,15 @@
+/* Extend */
+
+/* ESTILOS PARTICULARES */
+
+/* estilos -> Clases */
+%flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+/* estilos -> Contacto */
+%flex-row{
+    display: flex;
+    flex-direction: row;
+}
